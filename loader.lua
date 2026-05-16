@@ -21,7 +21,7 @@ local _ZjEnGcU = 6
 local _QhXtRwK = _CxPnFqI + _YrOkLsH + _MvBdWaT + _ZjEnGcU
 
 -- URL encoded (XOR key=47):
--- "https://YOURAPP.vercel.app/load"
+-- "https://xinnz.vercel.app/load"
 -- Ganti chunk di bawah dengan URL Vercel kamu (pakai encoder: https://xor.pw)
 -- Atau tempel URL plain di _XinnzRaw lalu hapus bagian decode
 local _ChunkA = {87,109,109,93,122,27,56,56}
@@ -32,7 +32,7 @@ local _ChunkE = {92,94,126,93}
 
 -- ─────────────────────────────────────────────────────────────
 -- CARA MUDAH: hapus bagian decode di atas, aktifkan baris ini:
--- local _XinnzRaw = "https://YOURAPP.vercel.app/load"
+-- local _XinnzRaw = "https://xinnz.vercel.app/load"
 -- ─────────────────────────────────────────────────────────────
 
 local _XinnzMerge = {}
